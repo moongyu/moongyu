@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPS2222A
+D Bipolar Transistors - BJT 600mA 75V NPN
+K
+F https://www.onsemi.com/pub/Collateral/MPS2222-D.PDF
+$ENDCMP
+#
+#End Doc Library
